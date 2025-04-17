@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋,Eu sou o Irváine Santos</h1>
 <h3 align="center"> Desenvolvedor Front-end</h3>
 
-# 💫About Me :
+# 💫Sobre Mim :
 Sou Desenvolvedor Front-end, atualmente estou no penúltimo semestre de ADS na unip.
 
 # 💻Tech Stack
