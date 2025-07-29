@@ -2,7 +2,7 @@
 <h3 align="center"> Desenvolvedor Front-end</h3>
 
 # 💫Sobre Mim :
-Sou Desenvolvedor Front-end, atualmente estou no último semestre de ADS na unip.
+Sou Desenvolvedor Back-end, atualmente estou no último semestre de ADS na unip.
 
 
 
