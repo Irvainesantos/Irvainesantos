@@ -16,6 +16,7 @@ Sou Desenvolvedor Back-end, atualmente estou no último semestre de ADS na unip.
 ![](https://github-readme-stats.vercel.app/api?username=Irvainesantos&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Irvainesantos&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Irvainesantos&icon=9&color=1)](https://visitcount.itsvg.in)
