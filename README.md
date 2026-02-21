@@ -16,8 +16,8 @@ Sou Desenvolvedor Back-end, sou formado em Análise e desenvolvimento de sistema
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irvainesantos&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irvainesantos&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&cache_seconds=1800)
 
      
