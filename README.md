@@ -1,23 +1,96 @@
-<h1 align="center">Olá👋,Eu sou o Irváine Santos</h1>
-<h3 align="center"> Desenvolvedor Back-end</h3>
+<h1 align="center">Olá 👋, eu sou o Irváine Santos</h1>
 
-# 💫Sobre Mim :
-Sou Desenvolvedor Back-end, sou formado em Análise e desenvolvimento de sistemas na unip.
+<h3 align="center">💻 Desenvolvedor Back-end</h3>
 
+<p align="center">
+  Desenvolvedor Back-end apaixonado por tecnologia e desenvolvimento de sistemas.
+</p>
 
+---
 
+## 👨‍💻 Sobre mim
 
-## 🌐  Sociais:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irvainenunes.cs@gmail.com) 
+Sou desenvolvedor Back-end, formado em **Análise e Desenvolvimento de Sistemas pela UNIP**.
 
-# 💻 Tecnologias:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-#### 📊 Estatísticas
+Tenho interesse em desenvolvimento de aplicações, APIs, bancos de dados e soluções utilizando tecnologias como **Java e MySQL**.
 
+Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-end e evoluir cada vez mais como profissional da área de tecnologia.
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 🚀 Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&cache_seconds=1800)
+### 💻 Linguagens e Back-end
 
-     
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+</p>
+
+---
+
+## 🌐 Redes e contato
+
+<p align="left">
+  <a href="mailto:irvainenunes.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="180em"
+  />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Irvainesantos&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Irvainesantos&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+<h3 align="center">💡 Sempre aprendendo e evoluindo!</h3>
+
+<p align="center">
+  Obrigado pela visita ao meu perfil! 🚀
+</p>
