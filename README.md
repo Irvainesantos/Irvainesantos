@@ -54,18 +54,28 @@ Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="180em"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&cache_seconds=1800"
-    height="180em"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Irvainesantos&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ## 🔥 Sequência de contribuições
 
