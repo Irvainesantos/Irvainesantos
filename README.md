@@ -53,19 +53,9 @@ Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Irvainesantos&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Irvainesantos&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Irvainesantos&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔥 Streak
 
@@ -104,3 +94,5 @@ Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-
 <p align="center">
   Obrigado pela visita ao meu perfil! 🚀
 </p>
+
+
