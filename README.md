@@ -57,14 +57,7 @@ Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-
 ![](https://streak-stats.demolab.com/?user=Irvainesantos&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Irvainesantos&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔥 Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Irvainesantos&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ## 🔥 Sequência de contribuições
