@@ -71,16 +71,6 @@ Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Irvainesantos&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
 
 <h3 align="center">💡 Sempre aprendendo e evoluindo!</h3>
 
