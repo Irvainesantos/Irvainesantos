@@ -1,25 +1,18 @@
-<h1 align="center">Olá 👋, eu sou o Irváine Santos</h1> <h3 align="center">💻 Desenvolvedor Back-end</h3> <p align="center"> Desenvolvedor Back-end apaixonado por tecnologia e desenvolvimento de sistemas. </p>
-👨‍💻 Sobre mim
+# 💫 About Me:
+Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolvedor Back-end apaixonado por tecnologia e desenvolvimento de sistemas.<br><br>👨‍💻 Sobre mim<br>Sou desenvolvedor Back-end, formado em Análise e Desenvolvimento de Sistemas pela UNIP.<br><br>Tenho interesse em desenvolvimento de aplicações, APIs, bancos de dados e soluções utilizando tecnologias como Java e MySQL.<br><br>Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-end e evoluir cada vez mais como profissional da área de tecnologia.
 
-Sou desenvolvedor Back-end, formado em Análise e Desenvolvimento de Sistemas pela UNIP.
 
-Tenho interesse em desenvolvimento de aplicações, APIs, bancos de dados e soluções utilizando tecnologias como Java e MySQL.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= Irvainesantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= Irvainesantos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= Irvainesantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Atualmente, estou buscando aprimorar meus conhecimentos em desenvolvimento Back-end e evoluir cada vez mais como profissional da área de tecnologia.
+---
+[![](https://komarev.com/ghpvc/?username= Irvainesantos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Tecnologias
-💻 Linguagem e Back-end
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /> </p>
-🗄️ Banco de Dados
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /> </p>
-🛠️ Ferramentas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /> </p>
-🌐 Redes e contato
-<p align="left"> <a href="mailto:irvainenunes.cs@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
-📊 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Irvainesantos&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="Linguagens mais utilizadas" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </p>
 🔥 Sequência de contribuições
