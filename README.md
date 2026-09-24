@@ -11,8 +11,7 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=onedark" alt=Irvainesantos />
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Irvainesantos&theme=radical" alt="Irvainesantos" /></p>
 
