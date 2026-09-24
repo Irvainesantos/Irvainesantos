@@ -13,18 +13,18 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 
 
 </p>
-🔥 Sequência de contribuições
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Irvainesantos&theme=radical&hide_border=false" alt="GitHub Streak" /> </p>
-💡 Atualmente
 
-🔭 Desenvolvendo e aprimorando meus conhecimentos em Back-end
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvainesantos&layout=compact&theme=onedark" alt=Irvainesantos />
 
-☕ Estudando e praticando Java
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Irvainesantos&theme=radical" alt="Irvainesantos" /></p>
 
-🗄️ Trabalhando com MySQL
-
-🔧 Utilizando Git e GitHub para versionamento
-
-📚 Buscando evoluir constantemente na área de tecnologia
-
-<h3 align="center">💡 Sempre aprendendo e evoluindo!</h3> <p align="center"> Obrigado pela visita ao meu perfil! 🚀 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Irvainesantos">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Irvainesantos&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Irvainesantos&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Irvainesantos&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Irvainesantos&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irvainesantos&theme=nightowl" height="180em" />
+</div>
