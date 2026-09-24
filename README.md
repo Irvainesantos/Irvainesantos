@@ -21,11 +21,11 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irvainesantos&theme=nightowl" height="180em" /></p>
 
-<p>🙏 Agradecimento
-Obrigado por visitar meu perfil! 💙
+🙏 Agradecimento
+Obrigado por visitar meu perfil! 
 
 Estou sempre em busca de novos conhecimentos, desafios e oportunidades para continuar evoluindo como desenvolvedor Back-end.
 
-Obrigado pela visita e até mais! 🚀</p>
+Obrigado pela visita e até mais! 🚀
 
 </div>
