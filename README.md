@@ -4,14 +4,11 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
 # 📊 GitHub Stats:
 
-
 </p>
-
-
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Irvainesantos&theme=radical" alt="Irvainesantos" /></p>
 
@@ -23,5 +20,12 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Irvainesantos&theme=2077" height="180em" />
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irvainesantos&theme=nightowl" height="180em" /></p>
+
+<p>🙏 Agradecimento
+Obrigado por visitar meu perfil! 💙
+
+Estou sempre em busca de novos conhecimentos, desafios e oportunidades para continuar evoluindo como desenvolvedor Back-end.
+
+Obrigado pela visita e até mais! 🚀</p>
 
 </div>
