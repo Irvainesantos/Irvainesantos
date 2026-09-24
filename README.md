@@ -23,5 +23,6 @@ Olá 👋, eu sou o Irváine Santos<br>💻 Desenvolvedor Back-end<br>Desenvolve
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Irvainesantos&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Irvainesantos&theme=2077" height="180em" />
 
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irvainesantos&theme=nightowl" height="180em" /></p>
 
 </div>
